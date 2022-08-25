@@ -18,6 +18,6 @@ Example:
 2. Navigate to the folder that contains the python file (*anagram_2.py*), the bubble sort file (*bubble_sort.py*), and the dictionary file(*sv-utf8.txt*).
 3. At the prompt, type in the following command (using whichever word you want anagrams for): 
 
->>> python anagram_2.py "XXXX"
+\>\>\> python anagram_2.py "XXXX"
 
 
