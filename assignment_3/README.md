@@ -16,8 +16,8 @@ a word. Once you have entered a word, the system will output anagrams of this wo
 Example: 
 1. Open your computer's terminal.
 2. Navigate to the folder that contains the python file (*anagram_2.py*), the bubble sort file (*bubble_sort.py*), and the dictionary file(*sv-utf8.txt*).
-3. At the prompt, tye in the following command (using whichever word you want anagrams for): 
+3. At the prompt, type in the following command (using whichever word you want anagrams for): 
 
-python anagram_2.py "XXXX"
+>>> python anagram_2.py "XXXX"
 
 
